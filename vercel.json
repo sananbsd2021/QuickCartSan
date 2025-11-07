@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "http://khaidee.shop/:1",
-      "permanent": true
-    }
-  ]
-}
